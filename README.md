@@ -18,30 +18,33 @@ Software that prompts the user to save the qualifying loans as a new CSV file ba
 ---
 
 ## Technologies
-*Developed in Python and tested on MacOs.*
+*Developed in Python and tested on MacOS.*
 It requires to have the following installed (Versions tested):
 - Python 3.9.7
 - Fire 0.3.1
 - Questionary 1.5.2
 - Path
-- Sys
+- csv
+- sys
 
 ---
 
 ## Installation Guide
 1. Clone this project using git with the following command: `git clone git@github.com:galcivar/module_02.git`
+![Git Clone](gitclone.png)
 2. Install Python you should follow this instructions depending on you OS: https://realpython.com/installing-python/
 3. Install the required packages:
 `pip install fire==0.3.1`
+![Fire install](fire.png)
 `pip install questionary==1.5.2`
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+![Questionary install](q.png)
 
 ---
 
 ## Usage
 You can use this program by navigating to the folder of the project (where app.py is) and run:
 `python app.py`
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+![usage](usage.png)
 
 ---
 
