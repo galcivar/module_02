@@ -108,14 +108,20 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
 
 
 def save_csv(qualifying_loans):
-    header = ["bank_data", "credit_score",
-              "debt", "income", "loan_amount", "home_value"]
-    output_path = Path("qualifying_loans.csv")
+    # Asks the user for the file name
+    file_name = questionary.text(
+        "What file name should the file be saved as? (No .csv needed)"
+    ).ask()
+    output_path = Path(file_name + '.csv')
+    print(f"Saving qualifying loans to file: {output_path}")
+    header = ["Lender", "Max Loan Amount",
+              "Max LTV", "Max DTI", "Min Credit Score", "Interest Rate"]
+    # Save the qualifying loans in a csv file.
     with open(output_path, 'w', newline='') as f:
         writer = csv.writer(f)
         writer.writerow(header)
         for loan in qualifying_loans:
-            writer.writerow(loan.values())
+            writer.writerow(loan)
 
 
 def save_qualifying_loans(qualifying_loans):
@@ -127,10 +133,19 @@ def save_qualifying_loans(qualifying_loans):
     # @TODO: Complete the usability dialog for savings the CSV Files.
     # YOUR CODE HERE!
 
+    # Asking user to decide what they want to do
+    confirm = questionary.confirm(
+        "Would you like to save the qualifying loans?"
+    ).ask()
+    if confirm == True:
+        save_csv(qualifying_loans)
+    else:
+        print("Not saving anything.")
+        
 
 def run():
     """The main function for running the script."""
-
+    
     # Load the latest Bank data
     bank_data = load_bank_data()
 

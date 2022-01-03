@@ -1,6 +1,13 @@
-# Project Title
-## Loan Qualifier App v1
-*Software that prompts the user to save the qualifying loans as a new CSV file.*
+# Loan Qualifier App
+Software that prompts the user to save the qualifying loans as a new CSV file based on the user data. Takes into account solicitants data:
+- Credit Score
+- Current Monthly Debt
+- Total Monthly Income
+- Desired Loan Amount
+- Home Value
+
+*It saves the data in a csv file with the name the user requests.*
+
 #### Acceptance Criteria
 - Given that I’m using the loan qualifier CLI, when I run the qualifier, then the tool should prompt the user to save the results as a CSV file.
 - Given that no qualifying loans exist, when prompting a user to save a file, then the program should notify the user and exit.
@@ -11,8 +18,13 @@
 ---
 
 ## Technologies
-
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+*Developed in Python and tested on MacOs.*
+It requires to have the following installed (Versions tested):
+- Python 3.9.7
+- Fire 0.3.1
+- Questionary 1.5.2
+- Path
+- Sys
 
 ---
 
