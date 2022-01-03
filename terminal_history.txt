@@ -1,0 +1,655 @@
+   50  /Users/gabrielalcivar/Dropbox/Apps/planvital/cotizador/node_modules/react-native/scripts/launchPackager.command ; exit;
+   51  /Users/gabrielalcivar/Dropbox/Apps/planvital/cotizador/node_modules/react-native/scripts/launchPackager.command ; exit;
+   52  /Users/gabrielalcivar/Dropbox/Apps/planvital/cotizador/node_modules/react-native/scripts/launchPackager.command ; exit;
+   53  /Users/gabrielalcivar/Dropbox/Apps/planvital/cotizador/node_modules/react-native/scripts/launchPackager.command ; exit;
+   54  /Users/gabrielalcivar/Dropbox/Apps/planvital/cotizador/node_modules/react-native/scripts/launchPackager.command ; exit;
+   55  /Users/gabrielalcivar/Dropbox/Apps/planvital/cotizador/node_modules/react-native/scripts/launchPackager.command ; exit;
+   56  ls
+   57  cd Dropbox
+   58  ls
+   59  cd Apps
+   60  cd planvital
+   61  cd cotizador
+   62  npx react-native start --reset-cache
+   63  npx react-native start --reset-cache
+   64  npx react-native start
+   65  npx react-native start
+   66  npx react-native start --reset-cache
+   67  npx react-native start --reset-cache
+   68  npx react-native start --reset-cache
+   69  npx react-native start --reset-cache
+   70  npx react-native start --reset-cache
+   71  npx react-native start --reset-cache
+   72  npx react-native start --reset-cache
+   73  npx react-native start --reset-cache
+   74  npx react-native start --reset-cache
+   75  ls
+   76  cd Dropbox/Apps/planvital/cotizador
+   77  ls
+   78  npx react-native run-ios
+   79  npx react-native run-ios
+   80  npx react-native run-ios
+   81  npx react-native run-ios
+   82  npx react-native run-ios
+   83  npx react-native run-ios
+   84  npx react-native run-ios
+   85  npx react-native run-ios
+   86  npx react-native run-ios
+   87  npx react-native run-ios
+   88  npx react-native run-ios
+   89  brew install --cask adoptopenjdk/openjdk/adoptopenjdk8
+   90  nano $HOME/.bash_profile
+   91  sudo nano $HOME/.bash_profile
+   92  nano $HOME/.bashrc
+   93  nano $HOME/.bash_profile
+   94  source $HOME/.bash_profile
+   95  source $HOME/.bash_profile
+   96  echo $ANDROID_HOME
+   97  npx react-native run-android
+   98  npx react-native run-android
+   99  export JAVA_HOME="/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home"
+  100  npx react-native run-android
+  101  npx react-native run-android
+  102  export JAVA_HOME="/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home"nano ~/.zprofile
+  103  nano ~/.zprofile
+  104  nano ~/.zshrc
+  105  nano ~/.zprofile
+  106  nano ~/.zprofile
+  107  source $HOME/.zprofile
+  108  echo $ANDROID_HOME
+  109  npx react-native run-android
+  110  export JAVA_HOME="$(/usr/libexec/java_home)"
+  111  npx react-native run-android
+  112  sudo ln -sfn /usr/local/opt/openjdk/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk.jdk
+  113  source $HOME/.zprofile
+  114  nano ~/.zprofile
+  115  source $HOME/.zprofile
+  116  npx react-native run-android
+  117  /usr/libexec/java_home -V | grep jdk
+  118  nano ~/.zprofile
+  119  source $HOME/.zprofile
+  120  npx react-native run-android
+  121  npx react-native run-android
+  122  npx react-native run-android
+  123  npx react-native run-android
+  124  npx react-native run-android
+  125  npx react-native run-android
+  126  npx react-native run-ios
+  127  npx react-native run-ios
+  128  npx react-native run-ios
+  129  npx react-native run-ios
+  130  npx react-native run-ios
+  131  npm i @react-native-community/async-storage
+  132  ls
+  133  cd ..
+  134  ls
+  135  cd cotizador
+  136  ls
+  137  npm i @react-native-community/async-storage --legacy-peer-deps
+  138  npx react-native run-ios
+  139  npx react-native run-ios
+  140  npx react-native run-ios
+  141  npx react-native run-ios
+  142  npx react-native run-ios
+  143  npx react-native run-ios
+  144  npx react-native run-ios
+  145  npm install --save react-native-location
+  146  pod 'react-native-location', :path => '../node_modules/react-native-location/react-native-location.podspec'
+  147  npm uninstall --save react-native-location
+  148  npm install react-native-geolocation-service
+  149  cd ios
+  150  sudo arch -x86_64 gem install ffi
+  151  pod install
+  152  cd ..
+  153  npx react-native run-ios
+  154  npx react-native run-ios
+  155  npx react-native run-ios
+  156  npx react-native run-android
+  157  npm outdated
+  158  npm i upgrade
+  159  npm outdated
+  160  npm un upgrade
+  161  npm upgrade
+  162  npm upgrade --legacy-peer-deps
+  163  ./gradlew clean
+  164  ls
+  165  cd android
+  166  ls
+  167  ./gradlew clean
+  168  cd ..
+  169  npx react-native run-android
+  170  npm un @react-native-community/async-storage
+  171  npx react-native run-android
+  172  npx react-native run-android
+  173  npx react-native run-android
+  174  npx react-native run-android
+  175  npm start --reset-cache
+  176  npx react-native run-android
+  177  npx react-native run-android
+  178  npx react-native run-android
+  179  npx react-native run-android
+  180  npx react-native run-android
+  181  npx react-native run-android
+  182  npx react-native run-android
+  183  npm outdated
+  184  npm outdated
+  185  npx react-native run-android
+  186  npx react-native run-android
+  187  npx react-native run-android
+  188  npx react-native run-android
+  189  npx react-native run-android
+  190  npx react-native run-android
+  191  npx react-native run-android
+  192  npx react-native run-android
+  193  npm install react-native-youtube -S
+  194  cd ios
+  195  pod install
+  196  sudo arch -x86_64 gem install ffi
+  197  pod install
+  198  arch -x86_64 pod install
+  199  cd ..
+  200  npx react-native run-android
+  201  npx react-native run-android
+  202  npx react-native run-android
+  203  npx react-native run-ios
+  204  npx react-native run-ios
+  205  cd ios
+  206  arch -x86_64 pod install
+  207  cd ..
+  208  npx react-native run-ios
+  209  npx react-native run-ios
+  210  cd ios
+  211  arch -x86_64 pod install
+  212  cd ..
+  213  npx react-native run-ios
+  214  cd ios
+  215  arch -x86_64 pod install
+  216  cd ..
+  217  npx react-native run-ios
+  218  npx react-native run-ios
+  219  pod search XCDYouTubeKit
+  220  cd ios
+  221  pod search XCDYouTubeKit
+  222  pod --version
+  223  pod search XCDYouTubeKit
+  224  ls
+  225  pod search XCDYouTubeKit
+  226  arch -x86_64 pod search XCDYouTubeKit
+  227  cd ..
+  228  npx react-native run-ios
+  229  npx react-native run-ios
+  230  npx react-native run-ios
+  231  npx react-native run-ios
+  232  npx react-native run-ios
+  233  cd ios
+  234  cd ..
+  235  npx react-native start --reset-cache
+  236  npx react-native run-ios
+  237  npm install react-native-bootsplash
+  238  npm generate
+  239  npm run-script generate
+  240  npm run-script generate
+  241  npx react-native start --reset-cache
+  242  npx react-native run-ios
+  243  cd ios
+  244  arch -x86_64 pod search XCDYouTubeKit
+  245  arch -x86_64 pod install
+  246  cd ..
+  247  npx react-native run-ios --reset-cache
+  248  npx react-native run-ios
+  249  npx react-native run-ios
+  250  npx react-native start --reset-cache
+  251  npx react-native run-android
+  252  npx react-native run-android
+  253  npx react-native run-android
+  254  npx react-native run-android
+  255  npx react-native run-android
+  256  npx react-native start --reset-cache
+  257  npx react-native run-android
+  258  npx react-native run-android
+  259  npm run-script generate
+  260  npm run-script generate
+  261  npx react-native start --reset-cache
+  262  npx react-native run-android
+  263  npx react-native run-android
+  264  npx react-native run-android
+  265  npx react-native run-android
+  266  npx react-native run-android
+  267  npx react-native run-android
+  268  npx react-native run-android
+  269  npx react-native run-android
+  270  npx react-native run-android
+  271  npx react-native start --reset-cache
+  272  npx react-native run-android
+  273  npx react-native run-android
+  274  npx react-native run-android
+  275  npx react-native run-android
+  276  npx react-native start --reset-cache
+  277  npx react-native run-android
+  278  ./gradlew clean
+  279  ls
+  280  cd android
+  281  ./gradlew clean
+  282  cd ..
+  283  npx react-native run-android
+  284  npx react-native run-android
+  285  npx react-native run-android
+  286  ./android/gradlew clean
+  287  cd android
+  288  ./gradlew clean
+  289  cd ..
+  290  npx react-native run-android
+  291  npx react-native run-android
+  292  npx react-native run-android
+  293  npx react-native run-ios
+  294  npx react-native start --reset-cache
+  295  npx react-native run-ios
+  296  npx react-native run-ios
+  297  git init
+  298  git add
+  299  git add .
+  300  git commit
+  301  echo 'export EDITOR=nano' >> ~/.zshrc
+  302  echo 'export VISUAL="$EDITOR"' >> ~/.zshrc
+  303  git commit
+  304  git commit
+  305  git branch -M main
+  306  git remote add origin git@github.com:galgomedia/app-cotizador.git\n
+  307  git branch -M main
+  308  git push -u origin main
+  309  npx react-native run-ios
+  310  git add .
+  311  npx react-native run-ios
+  312  git add .
+  313  git commit -am "Listo para pruebas en dispositivo fisico"
+  314  git push
+  315  npx react-native run-ios
+  316  npx react-native run-ios
+  317  git add .
+  318  git commit -am "Agrega manejo de codigo 406 para cedula invalida"
+  319  git push
+  320  git commit -am "Mejora cabeceras en Datos para mejorar claridad"
+  321  git push
+  322  npm outdated
+  323  npm upgrade
+  324  npm install @react-navigation/native
+  325  npm install react-native-screens react-native-safe-area-context
+  326  npm install @react-navigation/native-stack
+  327  npx react-native run-ios
+  328  npm un react-navigation react-navigation-stack
+  329  npx react-native run-ios
+  330  npm outdated
+  331  npm i react-native-gesture-handler
+  332  npm i react-native-gesture-handler@2.0.0
+  333  npx react-native run-ios
+  334  npx react-native run-ios
+  335  cd ios
+  336  arch -x86_64 pod install
+  337  cd ..
+  338  npx react-native run-ios
+  339  git add .
+  340  git commit -am "actualiza a react-navigation v6 y react-native-gesture-handler a v2"
+  341  git push
+  342  git commit -am "Varias mejoras en ui/ux"
+  343  git commit -am "Agrega cotizacion a persist storage"
+  344  git push
+  345  git commit -am "Elimina data de prueba"
+  346  git push
+  347  git commi -am "Cambio orden de ciudades, con las ciudades más comunes primero"
+  348  git commit -am "Cambio orden de ciudades con las ciudades más comunes primero"
+  349  git push
+  350  npx react-native run-ios
+  351  npx react-native run-ios
+  352  git add .
+  353  git commit -am "agrega header"
+  354  git commit -am "implementa header en vista cotizacion"
+  355  git commit -am "Mejoras en UI""\n
+  356  git commit -am "Mejoras en UI"\n
+  357  git commit -am "Mejoras en UI"
+  358  git commit -am "Mejoras en UI/UX"
+  359  git commit -am "agrega vista base de autenticacion"
+  360  npx react-native run-ios
+  361  npx react-native run-ios
+  362  xgit add .
+  363  git add .
+  364  git commit -am "agrega vista de autenticacion con navegdción para futuras versiones"
+  365  git push
+  366  git push
+  367  git push
+  368  git push
+  369  git commit -am "arregal peticion en iOS para ubicación"
+  370  git push
+  371  npx react-native run-ios
+  372  npx react-native run-ios
+  373  git commit -am "arregla texto  peticion en iOS para ubicación"
+  374  git push
+  375  git push
+  376  git push
+  377  conda --version
+  378  cd ..
+  379  cd ..
+  380  ls
+  381  cd ..
+  382  ls
+  383  cd fintech
+  384  ls
+  385  conda --version
+  386  conda --version
+  387  /Users/gabrielalcivar/Dropbox/Apps/planvital/cotizador/node_modules/react-native/scripts/launchPackager.command ; exit;
+  388  /Users/gabrielalcivar/Dropbox/Apps/planvital/cotizador/node_modules/react-native/scripts/launchPackager.command ; exit;
+  389  ls
+  390  /Users/gabrielalcivar/Dropbox/Apps/planvital/cotizador/node_modules/react-native/scripts/launchPackager.command ; exit;
+  391  /Users/gabrielalcivar/Dropbox/Apps/planvital/cotizador/node_modules/react-native/scripts/launchPackager.command ; exit;
+  392  /Users/gabrielalcivar/Dropbox/Apps/planvital/cotizador/node_modules/react-native/scripts/launchPackager.command ; exit;
+  393  u/Users/gabrielalcivar/Dropbox/Apps/planvital/cotizador/node_modules/react-native/scripts/launchPackager.command ; exit;
+  394  conda deactivate
+  395  ls
+  396  cd Dropbox
+  397  ls
+  398  cd Apps
+  399  cd planvital/cotizador
+  400  ls
+  401  npx react-native run-ios
+  402  npx react-native run-android
+  403  npx react-native run-android
+  404  npx react-native run-android
+  405  npx react-native run-android
+  406  npx react-native start --reset-cache
+  407  npx react-native start --reset-cache
+  408  npx react-native start --reset-cache
+  409  npx react-native start --reset-cache
+  410  npx react-native start --reset-cache
+  411  /usr/bin/python3 /Users/gabrielalcivar/Dropbox/fintech/CU-VIRT-FIN-PT-12-2021-U-B/01-Financial-Programming-Python/1/Activities/01_Ins_Variables/Solved/variables.py
+  412  /usr/bin/python3 /Users/gabrielalcivar/Dropbox/fintech/CU-VIRT-FIN-PT-12-2021-U-B/01-Financial-Programming-Python/1/Activities/01_Ins_Variables/Solved/variables.py
+  413  ls
+  414  /Users/gabrielalcivar/opt/anaconda3/bin/python /Users/gabrielalcivar/Dropbox/fintech/CU-VIRT-FIN-PT-12-2021-U-B/01-Financial-Programming-Python/1/Activities/01_Ins_Variables/Solved/variables.py
+  415  /Users/gabrielalcivar/opt/anaconda3/bin/python /Users/gabrielalcivar/Dropbox/fintech/CU-VIRT-FIN-PT-12-2021-U-B/01-Financial-Programming-Python/1/Activities/01_Ins_Variables/Unsolved/variables.py
+  416  /Users/gabrielalcivar/opt/anaconda3/bin/python /Users/gabrielalcivar/Dropbox/fintech/CU-VIRT-FIN-PT-12-2021-U-B/01-Financial-Programming-Python/1/Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  417  /Users/gabrielalcivar/opt/anaconda3/bin/python /Users/gabrielalcivar/Dropbox/fintech/CU-VIRT-FIN-PT-12-2021-U-B/01-Financial-Programming-Python/1/Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  418  /Users/gabrielalcivar/opt/anaconda3/bin/python /Users/gabrielalcivar/Dropbox/fintech/CU-VIRT-FIN-PT-12-2021-U-B/01-Financial-Programming-Python/1/Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  419  /Users/gabrielalcivar/opt/anaconda3/bin/python /Users/gabrielalcivar/Dropbox/fintech/CU-VIRT-FIN-PT-12-2021-U-B/01-Financial-Programming-Python/1/Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  420  /Users/gabrielalcivar/opt/anaconda3/bin/python /Users/gabrielalcivar/Dropbox/fintech/CU-VIRT-FIN-PT-12-2021-U-B/01-Financial-Programming-Python/1/Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  421  /Users/gabrielalcivar/opt/anaconda3/bin/python /Users/gabrielalcivar/Dropbox/fintech/CU-VIRT-FIN-PT-12-2021-U-B/01-Financial-Programming-Python/1/Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  422  /Users/gabrielalcivar/opt/anaconda3/bin/python /Users/gabrielalcivar/Dropbox/fintech/CU-VIRT-FIN-PT-12-2021-U-B/01-Financial-Programming-Python/1/Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  423  /Users/gabrielalcivar/opt/anaconda3/bin/python /Users/gabrielalcivar/Dropbox/fintech/CU-VIRT-FIN-PT-12-2021-U-B/01-Financial-Programming-Python/1/Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  424  /Users/gabrielalcivar/opt/anaconda3/bin/python /Users/gabrielalcivar/Dropbox/fintech/CU-VIRT-FIN-PT-12-2021-U-B/01-Financial-Programming-Python/1/Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  425  ls
+  426  conda --version
+  427  conda update conda
+  428  conda update anacoda
+  429  conda update anaconda
+  430  ls
+  431  cd Dropbox
+  432  ls
+  433  cd fintech
+  434  conda create -n dev python=3.7 anaconda
+  435  conda activate dev
+  436  conda init zsh
+  437  python -m ipykernel install --user --name dev
+  438  python -m ipykernel install --user --name dev
+  439  conda install -c conda-forge nodejs
+  440  condo deactivate
+  441  conda deactivate
+  442  conda activate dev
+  443  jupyter lab
+  444  conda deactivate
+  445  cd ..
+  446  ls
+  447  cd Apps
+  448  ls
+  449  cd planvital/cotizador
+  450  ls
+  451  npx react-native run-ios
+  452  git commit -m "Agrega avatar a iniciales"
+  453  git commit -m "Agrega avatar a iniciales"
+  454  git add .
+  455  git commit -m "Agrega avatar a iniciales"
+  456  git push
+  457  npx react-native run-ios
+  458  npx react-native run-ios
+  459  git add .
+  460  git commit -m "Navegacion con avatar"
+  461  git push
+  462  git pull
+  463  git config --global pull.rebase false
+  464  git pull
+  465  conda deactivate
+  466  git pull
+  467  cat ~/.ssh/id_rsa.pub
+  468  cat ~/.ssh/id_dsa.pub
+  469  sudo ls ~/.ssh/*.pub
+  470  nano /Users/gabrielalcivar/.ssh/id_ed25519.pub
+  471  nano /Users/gabrielalcivar/.ssh/id_ed25519.pub
+  472  cd ..
+  473  cd ..
+  474  ls
+  475  cd ..
+  476  ls
+  477  cd fintech
+  478  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-12-2021-U-B.git
+  479  ls
+  480  cd CU-VIRT-FIN-PT-12-2021-U-B
+  481  ls
+  482  cd 01
+  483  cd 01-Financial-Programming-Python
+  484  ls
+  485  cd 1
+  486  s
+  487  ls
+  488  cd Activities
+  489  ls
+  490  cd ..
+  491  cd ..
+  492  cd ..
+  493  cd ..
+  494  cd ..
+  495  ls
+  496  cd cd Apps/planvital/cotizador
+  497  git pull
+  498  cd cd Apps/planvital/cotizador}
+  499  cd cd Apps/planvital/cotizador
+  500  cd Apps/planvital/cotizador
+  501  git pull
+  502  git pull
+  503  ls
+  504  npx react-native run-android
+  505  npx react-native run-android
+  506  git add .
+  507  git commit -m "Pruebas flex botones"
+  508  npx react-native run-android
+  509  npx react-native run-ios
+  510  git commit -m "pruebas aliniacion y update README"
+  511  git pull
+  512  git pull
+  513  git commit -m "pruebas aliniacion y update README"
+  514  git push
+  515  git commit -m "pruebas aliniacion y update README"
+  516  git commit -m "pruebas aliniacion y update README"
+  517  git add .
+  518  git commit -m "pruebas aliniacion y update README"
+  519  git push
+  520  git pull
+  521  ls
+  522  cd ..
+  523  ls
+  524  cd ..
+  525  ls
+  526  cd ..
+  527  ls
+  528  cd fintech
+  529  ls
+  530  git pull
+  531  cd CU-VIRT-FIN-PT-12-2021-U-B
+  532  git pull
+  533  ls
+  534  conda activate dev
+  535  jupyter lab
+  536  git pull
+  537  ls
+  538  cd 01-Financial-Programming-Python
+  539  ls
+  540  cd 2
+  541  cd ..
+  542  cd 2
+  543  cd ..
+  544  cd 1
+  545  ls
+  546  python variables_inclassdemo.py
+  547  ls
+  548  cd ..
+  549  cd 2
+  550  ls
+  551  cd Activities
+  552  ls
+  553  jupiter lab
+  554  jupyter lab
+  555  cd ..
+  556  ls
+  557  cd ..
+  558  ls
+  559  cd ..
+  560  ls
+  561  cd ..
+  562  ls
+  563  cd Challenges
+  564  cd Module\ 1
+  565  ls
+  566  git clone git@github.com:galcivar/module_01.git
+  567  git status
+  568  cd ..
+  569  ls
+  570  cd ..
+  571  ls
+  572  cd Dropbox
+  573  ls
+  574  cd fintech
+  575  ls
+  576  cd Challenges
+  577  ls
+  578  cd module_01/
+  579  ls
+  580  git add .
+  581  git commit -a "init"
+  582  git commit -m "init"
+  583  git poush
+  584  git push
+  585  cd ..
+  586  cd ..
+  587  la
+  588  ls
+  589  cd CU
+  590  cd CU-VIRT-FIN-PT-12-2021-U-B
+  591  ls
+  592  git pull
+  593  git pull
+  594  ls
+  595  cd ..
+  596  ls
+  597  cd atm_app
+  598  ls
+  599  touch utils.py
+  600  touch app.py
+  601  mkdir action
+  602  ls
+  603  ls
+  604  cd ..
+  605  ls
+  606  cd atm_app
+  607  ls
+  608  cd actions
+  609  touch make_deposit.py
+  610  touch make_withdrawal
+  611  ls
+  612  clear
+  613  conda create -n atmapp  python=3.7 anaconda
+  614  conda activate atmapp
+  615  cd ..
+  616  pip install fire==0.3.1
+  617  pip install pytest==5.4.2
+  618  pip install questionary==1.5.2
+  619  cd..
+  620  cd ..
+  621  ls
+  622  cd Challenges
+  623  ls
+  624  cd module_01
+  625  git commit -am "Updates 9 to 12 months formula"
+  626  git push
+  627  git commit -am "Adding comments"
+  628  git push
+  629  cd ..
+  630  cd module_02
+  631  ls
+  632  cd loan_qualifier_app
+  633  ls
+  634  git@github.com:galcivar/module_02.git
+  635  git init
+  636  git add .
+  637  git commit
+  638  git remote add origin git@github.com:galcivar/module_02
+  639  git push -u origin master
+  640  git checkout main
+  641  git checkout main
+  642  git checkout master
+  643  git checkout master
+  644  git checkout main
+  645  git fetch
+  646  git checkout main
+  647  git merge master
+  648  git pull origin master --allow-unrelated-histories
+  649  git merge master
+  650  git merge main
+  651  git checkout main
+  652  git push
+  653  git checkout main
+  654  ls
+  655  git pull
+  656  git commit -am "updates README"
+  657  git commit -am "Adds csv code for qualifying_loans -not tested-"
+  658  git commit -am "Adds csv code for qualifying_loans -not tested-"
+  659  conda env dev
+  660  conda activate dev
+  661  pip install fire==0.3.1
+  662  pip install questionary==1.5.2
+  663  conda activate base
+  664  pip install fire==0.3.1
+  665  pip install questionary==1.5.2
+  666  conda list
+  667  git commit -am "finishes user input for selecting action and file name"
+  668  python app.py
+  669  git commit -am "updates Readme file"
+  670  clear
+  671  python app.py
+  672  python app.py
+  673  clear
+  674  python app.py
+  675  python app.py
+  676  clear
+  677  python app.py
+  678  cd ..
+  679  cd ..
+  680  git clone git clone git@github.com:galcivar/module_02.git
+  681  git clone git@github.com:galcivar/module_02.git
+  682  cd ..
+  683  git clone git@github.com:galcivar/module_02.git
+  684  clear
+  685  git clone git@github.com:galcivar/module_02.git
+  686  conda activate dev
+  687  pip install fire==0.3.1
+  688  pip uninstall fire==0.3.1
+  689  pip uninstall questionary==1.5.2
+  690  clear
+  691  pip install fire==0.3.1
+  692  clear
+  693  pip install questionary==1.5.2
+  694  ls
+  695  cd Challenges
+  696  ls
+  697  cd module_0
+  698  cd module_02
+  699  ls
+  700  cd loan_qualifier_app
+  701  git commit -am "Adds screenshots"
+  702  git commit -am "Improves User Interaction"
+  703  git push
+  704  git commit -am "Improves import order"
