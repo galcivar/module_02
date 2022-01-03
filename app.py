@@ -110,7 +110,7 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
 def save_csv(qualifying_loans):
     # Asks the user for the file name
     file_name = questionary.text(
-        "What file name should the file be saved as? (No .csv needed)"
+        "Where should the file be saved? (No .csv needed)"
     ).ask()
     output_path = Path(file_name + '.csv')
     print(f"Saving qualifying loans to file: {output_path}")
@@ -132,15 +132,20 @@ def save_qualifying_loans(qualifying_loans):
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
     # YOUR CODE HERE!
-
-    # Asking user to decide what they want to do
-    confirm = questionary.confirm(
-        "Would you like to save the qualifying loans?"
-    ).ask()
-    if confirm == True:
-        save_csv(qualifying_loans)
+    # Verify if there is qualifying loans to work with
+    if len(qualifying_loans) <= 0:
+        print("No loans to save. Exiting.")
+        sys.exit()
     else:
-        print("Not saving anything.")
+        # Asking user to decide what they want to do
+        confirm = questionary.confirm(
+            "Would you like to save the qualifying loans?"
+        ).ask()
+        if confirm == True:
+            save_csv(qualifying_loans)    
+        else:
+            print("Not saving anything. Exiting.")
+            sys.exit()
         
 
 def run():
